@@ -1,0 +1,27 @@
+
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:icon="@drawable/search"
+    >
+
+
+    <item
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/action_search"
+        android:icon="@drawable/search"
+        android:title="search"
+        app:showAsAction="always"
+        />
+
+    <item android:id="@+id/action_search1"
+        android:icon="@drawable/search"
+        android:title="search"
+        app:showAsAction="always"
+        />
+
+
+
+</menu>

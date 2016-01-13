@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HealingJeonnam</string>
+    <string name="checkin">Checkin</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_loading_acivity">LoadingAcivity</string>
+    <string name="title_activity_forest_detail">ForestDetailActivity</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_imformation">ImformationActivity</string>
+    <string name="title_activity_suggestion">SuggestionActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_mountain_detail">MountainDetailActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_full_screen">FullScreenActivity</string>
+    <string name="title_activity_mountain_search">MountainSearchActivity</string>
+    <string name="title_activity_mountain_map">MountainMapActivity</string>
+</resources>

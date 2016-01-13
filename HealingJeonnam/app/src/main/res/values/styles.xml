@@ -1,0 +1,36 @@
+<resources>
+
+    <style name="Theme.DesignDemo" parent="Base.Theme.DesignDemo">
+    </style>
+
+    <style name="Base.Theme.DesignDemo" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#F5F0E9</item>
+        <!--<item name="colorPrimaryDark">#F5F0E9</item>-->
+        <item name="colorAccent">#7DD975</item>
+        <!--<item name="android:titleTextStyle">@style/Drawerbar.TitleText</item>-->
+        <item name="titleTextColor">#666666</item>
+        <item name="android:actionMenuTextColor">#666666</item>
+        <item name="actionMenuTextColor">#666666</item>
+        <!--<item name="android:actionBarTabTextStyle">@style/Drawerbar.TitleText</item>-->
+        <!--<item name="android:windowBackground">@color/window_background</item>-->
+    </style>
+
+    <style name="Widget.CardContent" parent="android:Widget">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingTop">24dp</item>
+        <item name="android:paddingBottom">24dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">25dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!--<style name="Drawerbar.TitleText" parent="@android:style/TextAppearance">-->
+        <!--<item name="android:textColor">#232323</item>-->
+
+    <!--</style>-->
+
+</resources>
